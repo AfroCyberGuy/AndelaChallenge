@@ -42,7 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="76dp"
         android:background="@drawable/button_theme"
-        android:text="Button"
+        android:text="About"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"

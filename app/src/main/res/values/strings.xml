@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">AndroidChallenge</string>
     <string name="title_about_alc">AboutALC</string>
+    <string name="title_activity_andela_learning_web_view">About ALC</string>
+    <string name="main_activity_title">ALC 4 Phase 1</string>
+    <string name="myprofile_activity_title">My Profile</string>
 </resources>
